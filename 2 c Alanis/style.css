@@ -1,0 +1,20 @@
+body{
+    background-color: #c02727;
+}
+
+.primeiraparte{
+    background-color: rgb(122, 7, 7);
+}
+
+.foto{
+    height: 200px;
+}
+
+.todososestudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.fotos {
+    width: 500px;
+}
